@@ -1,0 +1,159 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "887291089496705_887291799496634",
+      "fan_interstitial_unit_id": "887291089496705_887291872829960",
+      "fan_native_unit_id": "887291089496705_887291979496616",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "How to create Paypal account guide",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "How to create Paypal account guide",
+      "title": "What is PayPal and How Does it Work",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F1%20What%20is%20PayPal%20and%20How%20Does%20it%20Work.html?alt=media&token=a6c7b73b-6da5-4c51-b5ce-6b389cd8ce2a",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "How to create Paypal account guide",
+      "title": "Types of accounts",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F2%20Types%20of%20accounts.html?alt=media&token=b840a886-3ce7-4e2a-8fdb-cbf5fb83a398",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "How to create Paypal account guide",
+      "title": "How to set up a PayPal account",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F3%20How%20to%20set%20up%20a%20PayPal%20account.html?alt=media&token=91cf1c2f-08a3-4a10-8007-61e9f51b7223",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "How to create Paypal account guide",
+      "title": "How to verify an account",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F4%20How%20to%20verify%20an%20account.html?alt=media&token=82e718a3-c668-4d49-a07c-a456db563f2f",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "How to create Paypal account guide",
+      "title": "How to transfer money from Cash App to PayPal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F5%20How%20to%20transfer%20money%20from%20Cash%20App%20to%20PayPal.html?alt=media&token=73baceee-2bcf-42f5-8bd4-a892acdb3be8",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "How to create Paypal account guide",
+      "title": "How to transfer money from PayPal to your bank account",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F6%20How%20to%20transfer%20money%20from%20PayPal%20to%20your%20bank%20account.html?alt=media&token=98fa1f7d-55f8-4ec5-ae27-7cf096a1bd17",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "How to create Paypal account guide",
+      "title": "How to send money - PayPal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F7%20How%20to%20send%20money%20-%20PayPal.html?alt=media&token=fd791e75-c03f-494a-b990-c85830db219a",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "How to create Paypal account guide",
+      "title": "How to request money - PayPal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F8%20How%20to%20request%20money%20-%20PayPal.html?alt=media&token=7160d57a-d429-4484-bc97-fc555e6ccb1b",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "How to create Paypal account guide",
+      "title": "How to cancel a PayPal payment",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F9%20How%20to%20cancel%20a%20PayPal%20payment.html?alt=media&token=f279d9dc-8959-43df-a823-5732ddddeee8",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "How to create Paypal account guide",
+      "title": "How to cancel PayPal subscriptions",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F10%20How%20to%20cancel%20PayPal%20subscriptions.html?alt=media&token=7a01e010-abf1-41a8-9c7c-fa883e7e3240",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "How to create Paypal account guide",
+      "title": "How to close and permanently delete a PayPal account",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2Fbannerpepool.png?alt=media&token=cf9048ec-dd0d-40f7-a1e5-ecac02f30433",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/pepol%2F11%20How%20to%20close%20and%20permanently%20delete%20a%20PayPal%20account.html?alt=media&token=8f971b42-6351-4bcd-a024-695537deb72c",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
